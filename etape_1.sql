@@ -14,4 +14,5 @@ INSERT INTO Plat (nom, prix) VALUES
     ('Mofo gasy', 1000),
     ('Ranon amapango', 500); 
 
-SELECT * FROM Plat ORDER BY prix DESC; 
+
+
